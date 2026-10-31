@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sara
 
-<!--
-**sara-milena-arango-jerez123/sara-milena-arango-jerez123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Engineer | Data Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about data engineering, databases, and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm developing my technical skills and building hands-on projects to strengthen my knowledge.
+
+### 🛠️ Technologies I'm Learning
+
+- **Programming:** Python
+- **Databases:** MongoDB, SQL
+- **Data Analytics:** Power BI
+- **Cloud & Infrastructure:** Cloud Computing, Linux
+
+### 🚀 My Goals
+
+- Build end-to-end data pipelines.
+- Develop efficient database solutions.
+- Learn data engineering tools and cloud platforms.
+- Document and share my learning journey.
+
+### 📂 My Projects
+
+Coming soon! I'm currently working on my first data engineering projects.
+
+### 🌱 Always Learning
+
+I'm continuously improving my skills through courses, practice, and real-world projects.
