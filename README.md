@@ -8,6 +8,14 @@ Currently, I'm developing my technical skills and building hands-on projects to 
 
 ### 🛠️ Technologies I'm Learning
 
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Practicing-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
 - **Programming:** Python
 - **Databases:** MongoDB, SQL
 - **Data Analytics:** Power BI
